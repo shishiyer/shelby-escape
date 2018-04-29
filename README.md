@@ -43,11 +43,11 @@ _____________________
 ```
 ### Controls
 
-**W / Up arrow:** move forward  
-**A / Left arrow:** move left  
-**S / Right arrow:** move right  
-**D / Down arrow:** move backwards  
-**Spacebar:** shoot (introduced in Level 5)  
+**W / Up arrow** - move forward  
+**A / Left arrow** - move left  
+**S / Right arrow** - move right  
+**D / Down arrow** - move backwards  
+**Spacebar** - shoot (introduced in Level 5)  
 
 ### Class List
 
@@ -64,4 +64,4 @@ _____________________
 
 ### Responsibility List
 
-**Shishir (that's me!):** All of the classes mentioned above.
+**Shishir (that's me!)** - All of the classes mentioned above.
