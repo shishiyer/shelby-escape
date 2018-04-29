@@ -54,7 +54,7 @@ _____________________
 **Sprite** - describes all elements that are drawn on the screen  
 **Player** - controls the function of the player  
 **Enemy** - represents any enemy in the game  
-**Hole** - represents the functionality of a pothole  
+**Hole** - represents the functionality of a hole  
 **FixedHorizontalPathEnemy** - represents an enemy that travels along a fixed horizontal path  
 **FixedVerticalPathEnemy** - represents an enemy that travels along a fixed vertical path  
 **RandomEnemy** - represents an enemy that travels in a random direction  
