@@ -64,4 +64,4 @@ _____________________
 
 ### Responsibility List
 
-**Shishir (that's me!)** - All of the classes mentioned above.
+**Shishir** - All of the classes mentioned above.
