@@ -59,8 +59,7 @@ _____________________
 **FixedVerticalPathEnemy** - represents an enemy that travels along a fixed vertical path  
 **RandomEnemy** - represents an enemy that travels in a random direction  
 **TrackingEnemy** - represents an enemy that chases the player  
-**GameBoard** - represents the drawing surface where all the elements of the game are rendered  
-**Game** - controls the logic of the game  
+**GameBoard** - represents the drawing surface where all the elements of the game are rendered
 
 ### Responsibility List
 
